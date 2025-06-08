@@ -1,1 +1,0 @@
-# my_crud_binders
